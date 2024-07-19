@@ -1,1 +1,10 @@
-# pattern
+# Pattern
+
+A pattern for "1212"
+
+FINAL OUTPUT:
+
+121212
+212121
+121212
+212121
